@@ -2,7 +2,6 @@
 
 A single-file, self-contained Node.js tool that scans source code, computes deep line/quality metrics (code vs comments vs blanks, debt, risk heuristics, minified detection, duplicates), and serves an Apple-style glassmorphism web dashboard + JSON/CSV API.
 
-**GitHub repo description (copy/paste):**
 Single-file Node.js codebase auditor: fast LOC breakdowns, debt/risk signals, duplicates & minified detection, plus a modern web dashboard and JSON/CSV API.
 
 ---
