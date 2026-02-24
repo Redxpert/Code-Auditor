@@ -22,6 +22,7 @@ Single-file Node.js codebase auditor: fast LOC breakdowns, debt/risk signals, du
   * Explorer with sorting/filtering and “include subfolders”
   * Click any file row to open an Inspector sheet with details + duplicates
 * Exposes JSON and CSV endpoints for automation/pipelines
+<img width="1815" height="1227" alt="imagen" src="https://github.com/user-attachments/assets/12f060bb-c396-4226-91a7-c50f688afaa5" />
 
 ---
 
