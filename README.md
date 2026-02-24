@@ -35,11 +35,11 @@ Single-file Node.js codebase auditor: fast LOC breakdowns, debt/risk signals, du
 
 ## Quick start
 
-1. Put the script in your repo (example name: `contador-lineas.js`)
+1. Put the script in your repo (example name: `line-counter.js`)
 2. Run:
 
 ```bash
-node contador-lineas.js --root .
+node line-counter.js --root .
 ```
 
 3. Open the dashboard:
@@ -52,7 +52,7 @@ node contador-lineas.js --root .
 ## CLI options
 
 ```bash
-node contador-lineas.js [options]
+node line-counter.js [options]
 ```
 
 Options:
